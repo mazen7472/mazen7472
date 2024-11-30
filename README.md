@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mazenmohamed7472@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1EHT7TLL32aK82vOOlj528ZJ9cU5GwlcV/view?usp=sharing" target="_blank" rel="noreferrer"> Resume </a>
+- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1EHT7TLL32aK82vOOlj528ZJ9cU5GwlcV/view?usp=sharing](https://drive.google.com/file/d/1VBafIm6zjdszVYENmqIlcqZTE-dAUBTF/view?usp=drivesdk)" target="_blank" rel="noreferrer"> Resume </a>
 
 
 
